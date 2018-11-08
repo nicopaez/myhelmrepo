@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  passwordapi:
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2018-11-08T08:26:37.370876-03:00
+    description: Helm Package for PasswordAPI-Java
+    digest: c9bc2daff449cd0da0a4f2b7f3240edf2467b3b59f736bfeee6c3bef87955722
+    name: passwordapi
+    urls:
+    - passwordapi-0.1.2.tgz
+    version: 0.1.2
+  - apiVersion: v1
+    appVersion: 0.1.0
+    created: 2018-11-08T08:26:37.369396-03:00
+    description: Helm Package for PasswordAPI-Java
+    digest: 364f89495de844a9d03d8390bbe4e21732a9a7c44d944c67a16833c916614361
+    name: passwordapi
+    urls:
+    - passwordapi-0.1.0.tgz
+    version: 0.1.0
+generated: 2018-11-08T08:26:37.368232-03:00
